@@ -42,7 +42,7 @@ export default function Feedback() {
           <h1>{t('feedback')}</h1>
           <MDBInput className="text-white" label={t('enterYourEmail')} id="typeEmail" type="email" />
           <MDBTextArea label="Message" id="textAreaExample" rows={4} />
-          <button className="button-submit" onClick={() => alert("Thanks for your feedback! We will contact you regarding this and let you know if we decide to implement it.")}>
+          <button className="button-submit" onClick={() => alert(t('alertsubmit'))}>
           {t('submit')}
 </button>
 
