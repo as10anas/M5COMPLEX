@@ -24,7 +24,7 @@ function CardElement(props) {
                             <li>{props.detail4}</li>
                             <li>{props.detail5}</li>
                         </ul>
-                      <a href={props.link} className="fw-bold text-dark">{t('gameschedule')}</a>
+                      <a href={props.link} className="fw-bold text-dark" target="_blank" rel="noopener noreferrer">{t('gameschedule')}</a>
                 </div>
           </div>
       </div>
