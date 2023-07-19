@@ -55,8 +55,8 @@ const handleChange = (event)=>{
             <Route path="method" element={<Method />} />
             <Route path="detail" element={<CardDetails />} />
             <Route path="greeting" element={<Greetings/>} />
-            <Route path="/faq" element={<Faq/>} />
-            <Route path="/feedback" element={<Feedback/>} />
+            <Route path="faq" element={<Faq/>} />
+            <Route path="feedback" element={<Feedback/>} />
         </Routes>
       </div>   
 

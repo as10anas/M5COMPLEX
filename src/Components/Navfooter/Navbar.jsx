@@ -45,12 +45,12 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/faq">
+                <a className="nav-link" href="faq">
                   {t('faq')}
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/feedback">
+                <a className="nav-link" href="feedback">
                   {t('contactUs')}
                 </a>
               </li>
@@ -59,7 +59,7 @@ function Navbar() {
               <label>{t('translation')} </label>
               <select value={i18n.language} onChange={handleChange}>
                 <option value="en">English</option>
-                <option value="fr">French</option>
+                <option value="fr">Français</option>
               </select>
             </div>
           </div>

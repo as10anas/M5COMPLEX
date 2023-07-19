@@ -12,8 +12,8 @@ function Footer() {
             <h2 style={{ color: 'rgb(255, 255, 255)' }}>{t('quickLinks')}</h2>
             <a style={{ fontSize: '120%' }} href="/#buy">{t('buySeasonPass')}</a>
             <a style={{ fontSize: '120%' }} href="/#news">{t('teamsNews')}</a>
-            <a style={{ fontSize: '120%' }} href="/faq">{t('faq')}</a>
-            <a style={{ fontSize: '120%' }} href="/feedback">{t('feedback1')}</a>
+            <a style={{ fontSize: '120%' }} href="faq">{t('faq')}</a>
+            <a style={{ fontSize: '120%' }} href="feedback">{t('feedback1')}</a>
           </div>
           <div className="footer-heading footer-2">
             <h2 style={{ color: 'rgb(255, 255, 255)' }}>{t('customerSupport')}</h2>
