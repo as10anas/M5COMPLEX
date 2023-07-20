@@ -35,13 +35,13 @@ const SimpleSlider = () => {
         <HeadCenter centerheading={t('stadiums')}/>
         <Slider {...settings}>
           <div>
-            <img className="carousel-image" src={image1} alt="Soccer" />
+            <img className="carousel-image" src={image1} alt="Soccer field" />
           </div>
           <div>
-            <img className="carousel-image" src={image2} alt="Basketball" />
+            <img className="carousel-image" src={image2} alt="Basketball field" />
           </div>
           <div>
-            <img className="carousel-image" src={image3} alt="Hockey" />
+            <img className="carousel-image" src={image3} alt="Hockey field" />
           </div>
         </Slider>
       </div>

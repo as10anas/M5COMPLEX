@@ -14,7 +14,7 @@ export default function BMachines() {
 
       <MDBAccordionItem  collapseId={1} headerTitle={t('atleticoOttawaSoccer')}>
         <div className="okay1">
-          <a href="https://atleticoottawa.canpl.ca/" target="_blank" ><img className="machines" border="0" src="https://cpl-uploads.s3.amazonaws.com/app/uploads/ottawa/ATO_Primary_Mark_keyline.png" /></a>
+          <a href="https://atleticoottawa.canpl.ca/" target="_blank" ><img className="machines" border="0" src="https://cpl-uploads.s3.amazonaws.com/app/uploads/ottawa/ATO_Primary_Mark_keyline.png" alt="team logo" /></a>
           <h1 className="okay2 text-dark">
   <strong>{t('canada2022Champions')}</strong>
   <span className="small-text"> {t('clicklogo')}</span>
@@ -32,7 +32,7 @@ export default function BMachines() {
       </MDBAccordionItem>
       <MDBAccordionItem collapseId={2} headerTitle='Black Jacks Basketball'>
         <div className="okay1">
-        <a href="https://www.theblackjacks.ca/" target="_blank" ><img className="machines" border="0" src="https://se-img.dcd-production.i.geniussports.com/78256a7e11f01940fdf2e920be615536S1.png" /></a>
+        <a href="https://www.theblackjacks.ca/" target="_blank" ><img className="machines" border="0" src="https://se-img.dcd-production.i.geniussports.com/78256a7e11f01940fdf2e920be615536S1.png" alt="team logo" /></a>
         <h1 className="okay2 text-dark"><strong>{t('leagueLeaders2023')} <br></br>{t('aa')}</strong> <span className="small-text"> {t('clicklogo')}</span></h1>
         </div>
         <p> <strong>The Black Jacks</strong> is a professional basketball team based in Ottawa, Canada. The team competes in the Canadian Elite Basketball League (CEBL), which was established in 2018 as a premier summer basketball league in Canada. The Black Jacks were one of the original teams when the league debuted in 2019.</p>
@@ -42,7 +42,7 @@ export default function BMachines() {
       </MDBAccordionItem>
       <MDBAccordionItem collapseId={3} headerTitle="67's Ottawa Hockey">
         <div className="okay1">
-        <a href="https://ottawa67s.com/" target="_blank" ><img className="machines" border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ottawa_67%27s_logo.svg/1200px-Ottawa_67%27s_logo.svg.png" /></a>
+        <a href="https://ottawa67s.com/" target="_blank" ><img className="machines" border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ottawa_67%27s_logo.svg/1200px-Ottawa_67%27s_logo.svg.png" alt="team logo"/></a>
         <h1 className="okay2 text-dark"><strong>{t('bestTeamOHL')}</strong> <span className="small-text"> {t('clicklogo')}</span></h1>
         </div>
         <p><br></br><strong>The Ottawa 67's</strong> is a major junior ice hockey team based in Ottawa, Canada. The team was founded in 1967 and has a rich history in the Ontario Hockey League (OHL). The name "67's" pays homage to Canada's centennial year, as the team was established during the country's 100th anniversary.</p>
