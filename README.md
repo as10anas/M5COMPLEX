@@ -7,3 +7,7 @@ This website was developed using React for a Software Engineering project.
 The M5 Complex is a sports complex that has 3 fields to host soccer, basketball and hockey games. The website offers season passes for Ottawa’s own soccer, basketball and hockey teams.The teams play in their respective professional leagues. The M5 Complex sells season passes to attend all local games of one’s chosen team.
 
 #### Link : https://stadem5.netlify.app/
+
+### Semantic Network:
+![scementic network changed](https://github.com/as10anas/M5COMPLEX/assets/91287439/c4121f31-7c91-478c-bd12-d962e0ea0b73)
+
