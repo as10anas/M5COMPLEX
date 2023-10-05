@@ -1,5 +1,5 @@
 # Analysis and Design of User Interfaces
-This website was developed using React for a Software Engineering project.
+This website was developed using React for a Software Engineering class project.
 
 ## Title: M5 Complex
 
